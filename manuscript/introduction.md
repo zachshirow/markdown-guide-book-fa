@@ -1,67 +1,62 @@
-{frontmatter}
+# مقدمه
 
-# Introduction
+من یک نویسندهٔ فنی هستم و در طول دوران حرفه‌ای خود از ابزار های نوشتاریِ زیادی استفاده کرده‌ام. یکی از جالب‌ترین ابزارهائی که من با آن مواجه شده‌ام،  زبان نشانه‌گذاری‌ای بنام مارک‌داون (Markdown) است.
 
-I'm a technical writer, and I've used a lot of writing tools over the course of my professional career. One of the most interesting tools I've encountered is a markup language called Markdown.
+آزمون تورنسلِ من برای یک ابزارِ نوشتنِ موفق این است که آیا استفاده از آن می‌تواند به طبیعتِ دوم تبدیل شود؟ آیا نوشتن با آن طبیعی به‌نظر می‌رسد؟ یا دائماً احساس می‌کنم که درحال جنگیدن با آن هستم؟ من از ابزارهائی که مانعِ من می‌شوند استفاده نمی‌کنم. زمان، ارزشمند  است و من تجملِ چیزهائی که باعثِ هدر رفتنِ این منبعِ ارزشمند می‌شوند را ندارم.
 
-My litmus test for a successful writing tool is whether using it can become second nature. Does writing with it feel natural? Or do I feel like I'm constantly fighting against it? I stop using tools that hinder me. Time is valuable, and I don't have the luxury of indulging things that squander that precious resource.
+زبان Markdown آزمون را با موفقیت پشتِ سر گذاشت. نوشتن با استفاده از Markdown احساسِ خوبی دارد. از زمان معرفی آن در سال ۲۰۰۴، میلیون‌ها نفر از آن برای نوشتنِ همه‌چیز، از جمله یادداشت گرفته تا اسناد، شروع به استفاده کرده‌اند. Markdown یکی از موفق‌ترین زبان‌های نشانه‌گذاری در تمامِ دوران است.
 
-Markdown passes the test with flying colors. Writing using Markdown just *feels right*. Since its introduction in 2004, millions of people have started using it to write everything from notes to documents. It's one of the most successful markup languages of all time.
+دلیلِ موفقیتِ Markdown، تعادلِ بین سادگی و قدرت است؛ جائی که دیگر زبان‌های نشانه‌گذاری در آن شکست خورده‌اند. یادگیری و استفاده از Markdown آسان است و موفقیتِ فوق‌العادهٔ آن یعنی حضورش در همه‌جا، بعنوان مثال در GitHub و Reddit تا جایگزینِ ویرایشگرهای WYSIWYG شود. اما Markdown همچنین به‌اندازهٔ‌کافی برای ایجاد اسناد، کتاب‌ها و سندنویسی فنی قدرتمند است. Markdown به‌معنای واقعیِ کلمه همه‌جا هست.
 
-Markdown has succeeded where other markup languages have failed because it strikes the right balance between power and simplicity. It's easy to learn and simple to use. Its tremendous success means it's ubiquitous enough to replace WYSIWYG editors on websites like Reddit and GitHub. But Markdown is also powerful enough to create documents, books, and technical documentation. Markdown is literally everywhere.  
+من سال‌هاست که از Markdown استفاده می‌کنم و آن را به همهٔ کسانی که می‌شناسم توصیه می‌کنم. دلایلِ زیادی وجود دارد که چرا باید نوشتن با Markdown را یاد بگیرید، اما یکی از بهترین دلایل، برتریِ آن نسبت به گزینه‌های جایگزین است.یادگیریِ مارک‌داون یعنی دیگر نیازی نیست آن ابزارهای نوشتاریِ بی‌کیفیتی را که سال‌ها تحملشان کرده‌اید، استفاده کنید. همچنین می‌تواند باعثِ پیشرفت شغلی شما شود. باور داشته باشید یا نه، تسلط بر نحوهٔ نگارش Markdown یک الزام برای بسیاری از مشاغل است.
 
-I've been using Markdown for years now and I recommend it to everyone I know. There are lots of reasons why you should learn to write using Markdown, but one of the best reasons is that it's better than the alternatives. Learning Markdown means you can stop using all the subpar writing tools you've tolerated for years. It can also further your career. Believe it or not, knowing how to write using Markdown is a requirement for many jobs.
+تمامِ این‌ها ما را به این کتاب می‌رساند. من نتوانستم یک راهنمای مرجعِ جامعِ Markdown پیدا کنم، بنابراین تصمیم گرفتم که یکی ایجاد کنم.
 
-That brings us to this book. I couldn't find a comprehensive Markdown reference guide, so I decided to create one.
+کتاب _راهنمای مارک‌داون_ شروعی فروتنانه دارد. در سالِ ۲۰۱۷ بعنوانِ یک صفحهٔ‌وب شروع شد. پس از دریافتِ بازخوردِ مثبت از دوستان و همکاران، تصمیم گرفتم سایت را گسترش دهم. در کمالِ تعجب، _راهنمای مارک‌داون_ تا اوایلِ سالِ ۲۰۱۸ روزانه صدها بازدیدکنندهٔ منحصربفرد را دریافت می‌کرد. آن‌موقع به ذهنم رسید که مردم ممکن است از _راهنمای مارک‌داون_ در قالبِ کتاب نیز استقبال کنند.
 
-The *Markdown Guide* has humble beginnings. It started as a single webpage in 2017. After receiving positive feedback from friends and coworkers, I decided to expand the site. To my astonishment, the *Markdown Guide* was receiving hundreds of unique visitors a day by early 2018. At that point, it occurred to me that people might also appreciate the *Markdown Guide* in book format.
+امیدوارم از خواندن این کتاب به همان اندازه که من از نوشتنِ آن لذت برده‌ام، لذت ببرید. مهم‌تر از همه، امیدوارم به شما کمک کند با استفاده از Markdown بنویسید، و امیدوارم استفاده از Markdown شما را نویسنده بهتری کند.
 
-I hope you enjoy reading this book as much as I've enjoyed writing it. Above all, I hope it helps you write using Markdown, and I hope using Markdown makes you a better writer.
+## چگونه این کتاب را بخوانیم
 
-## How to Read This Book
+این کتاب به گونه‌ای طراحی شده است که یک راهنمای مرجعِ جامع برای زبانِ نشانه‌گذاریِ Markdown باشد. اگر در Markdown تازه‌کار هستید، از ابتدا شروع کنید و تا آخر بخوانید. اگر کاربرِ متخصص هستید، این کتاب را در‌دسترس داشته باشید (هرگز نمی‌دانید چه زمانی باید به [برگهٔ تقلب] مراجعه کنید.).
 
-This book is designed to be a comprehensive reference guide to the Markdown markup language. If you're new to Markdown, start at the beginning and read to the end. If you're an expert user, keep this book handy — you never know when you'll need to refer back to the [cheat sheet](#cheat-sheet).
+### منابع مبتدی 
 
-### Beginner Resources
+دو فصلِ اول این کتاب به‌طور انحصاری برای خوانندگانی طراحی شده است که تازه با Markdown آشنا شده‌اند. [شروع‌به‌کار] مقدمه‌ای سریع برای Markdown فراهم می کند. این به شما نشان می دهد که چگونه با ویرایشگرِ آنلاین [Markdown Dillinger](https://dillinger.io/) به سرعت پیش بروید، و برخی از مواردی که در پشت‌ِصحنه اتفاق می‌افتد را روشن می‌کند. [کارهائی که با Markdown می‌توان انجام داد] در موردِ آنچه که می‌توانید با استفاده از Markdown ایجاد کنید صحبت می‌کند. همچنین برخی از برنامه‌هائی را که می‌توانید برای نوشتن با استفاده از Markdown استفاده کنید، ارائه می‌کند.
 
-The first two chapters of this book are designed exclusively for readers who are new to Markdown. [Getting Started](#getting-started) provides a quick introduction to Markdown. It shows you how to get going quickly with the Dillinger online Markdown editor, and it sheds light on some of the stuff going on behind the scenes.
+### نمونه‌های نحوی
 
-[Doing Things With Markdown](#doing-things-with-markdown) talks about what you can create using Markdown. It also presents some of the applications you can use to write Markdown.
+برای کمک به یادگیری نحوهٔ نوشتن با استفاده از Markdown، من سه بخش را برای هر عنصر نحوی در فصل‌های نحو [پایه] و [توسعه‌یافته] ارائه کرده‌ام:
 
-### Syntax Examples
+- __مارک‌داون__: چیزی که در برنامهٔ مارک‌داون (Markdown) می‌نویسید.  
+- __اچ‌تی‌ام‌ال__: کد اچ‌تی‌ام‌ال‌ای (HTML) که توسط پردازندهٔ برنامهٔ مارک‌داون تولید می‌شود.  
+- __خروجی ارائه‌شده__: چیزی که خواننده (مطالعه‌کننده) می‌بیند.
 
-To help you learn how to write using Markdown, I've provided three sections for every syntax element in the chapters on [basic](#basic-syntax) and [extended syntax](#extended-syntax):
+برای کسبِ اطلاعات بیشتر در موردِ تبدیلِ Markdown به HTML، به بخش [نحوهٔ عملکرد Markdown] مراجعه کنید.
 
-- **Markdown:** This is what you'll type in your Markdown application.
-- **HTML:** This is the HTML code that'll be generated by the Markdown processor.
-- **Rendered Output:** This is what the reader will see.
+### در کنار این‌ها
 
-To learn more about the Markdown to HTML conversion, see the section on [how Markdown works](#how-markdown-works).
+اطلاعاتِ اضافی‌، با نمادِ «ℹ️»، در کنارِ آن‌ها نمایش داده می‌شود، مانند:
 
-### Asides
+<p dir="rtl">ℹ️: این هم کمی اطلاعات که ممکن است به شما کمک کند.</p>
 
-Extra bits of information are displayed with an "i" icon next to them, like this:
+نکات با نمادِ «🔑» کلید در کنارِ آن‌ها نمایش داده می‌شوند، مانند:
 
-I> Here's some extra information you might find helpful.
+🔑: این هم نکته‌ای که ممکن است به شما کمک کند.
 
-Tips are displayed with a key icon next to them, like this:
+### عجیب‌وغریب‌ها
 
-T> Here's a cool tip you might find useful.
+برخی از نمونه‌های کد Markdown و HTML در این کتاب به خطّ بعدی می‌پیوندند. در موقعیت‌هائی که این اتفاق می‌افتد، یک `\` در انتهای خطّ اولِ بلوکِ کد خواهید دید. این `\` در واقع بخشی از کد نیست، بلکه در آن‌جا نمایش داده می‌شود تا نشان دهد که خطّ بعدیِ بلوکِ کد در واقع بخشی از همان خط است.
 
-### Quirks
+## مشارکت
 
-Some of the Markdown and HTML code samples in this book "wrap" to the next line. In the situations where that happens, you'll see a `\` at the end of the first line of the code block. That `\` isn't actually part of the code. It's displayed there to indicate that the next line of the code block is actually part of the same line.
+این کتاب یک پروژهٔ متن‌باز است و از مشارکت شما استقبال می‌شود. این [مخزن](https://github.com/mattcone/markdown-guide-book) در GitHub میزبانی می‌شود. برای دستورالعمل‌ها و رهنمودها به [README](https://github.com/mattcone/markdown-guide-book/blob/master/README.md) مراجعه کنید.
 
-## Contributing
+## گزارش مشکلات
 
-This book is an open-source project, and your contributions are welcome. The [repository](https://github.com/mattcone/markdown-guide-book) is hosted on GitHub. See the [README](https://github.com/mattcone/markdown-guide-book/blob/master/README.md) for instructions and guidelines.
+مشکلی پیدا کردید؟ [موضوعی در GitHub ایجاد کنید](https://github.com/mattcone/markdown-guide-book/issues) و من در اسرع وقت آن‌را برطرف خواهم کرد. از شما ممنونم!
 
-## Reporting Issues
+##  سپاسگزاری
 
-Find something wrong? [Create an issue](https://github.com/mattcone/markdown-guide-book/issues) on GitHub and I'll fix it as soon as possible. Thank you!
-
-## Acknowledgements
-
-I'm eternally grateful to Reem and our children, Finn and Simon. This book wouldn't exist without their love and support.
-
-I greatly appreciate the help of AK Molteni, Gaylin Walli, Juan Torrez, Diana Lynch, and my parents, Steve Cone and Kathie Lathan, who were sounding boards for the website and book. Thanks to [Josh Ellingson](http://ellingson.cc/) for creating the amazing, jaw-dropping artwork on the cover. Last, but certainly not least, I'd like to thank *you* and everyone else who has read and contributed to the *Markdown Guide*. You've not only made this book possible, you've made it better!
+من همیشه از ریم و فرزندانمان، فین و سایمون، سپاسگزارم. این کتاب بدون عشق و حمایت آن‌ها وجود نداشت.
+من از کمک اِی‌‌کِی مولتِنی، گِیلین والی، خوان تورِز، دیانا لینچ، پدر‌و‌مادرم، استیور کون و کتی لاتان که تابلوهای صدادار برای وب‌سایت و کتاب بودند، بسیار قدردانی می‌کنم. با تشکر از [جاش الینگسون](https://ellingson.tv/) برای خلق اثرِ هنری شگفت‌انگیز و فک‌برانداز روی جلد. آخرین، اما مطمئناً نه کم‌اهمیت، می‌خواهم از شما و همهٔ‌کسانی که راهنمای مارک‌داون را خوانده‌اند و در آن مشارکت داشته‌اند تشکر کنم. شما نه‌تنها این کتاب را ممکن کرده‌اید، بلکه آن را بهتر کرده‌اید!
