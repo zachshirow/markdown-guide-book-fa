@@ -1,4 +1,4 @@
-<div dir=rtl><img src="https://raw.githubusercontent.com/MOSiHiHi/markdown-guide-book-fa/master/manuscript/images/title_page.jpg" alt="جلد راهنمای مارک‌داون" width="315"></div>
+<div dir=rtl><img src="https://github.com/MOSiHiHi/markdown-guide-book-fa/blob/master/cover.png" alt="جلد راهنمای مارک‌داون" width="315"></div>
 
 # راهنمای مارک‌داون
 
