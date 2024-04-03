@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - نحو توسعه‌یافته.md",
+                "file": "05 - برگه تقلب.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - نحو توسعه‌یافته.md"
+                "file": "05 - برگه تقلب.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - نحو توسعه‌یافته.md",
+                "file": "05 - برگه تقلب.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - نحو توسعه‌یافته.md",
+                "file": "05 - برگه تقلب.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,10 @@
   },
   "active": "5445a3ed5e3d6ef7",
   "lastOpenFiles": [
+    "04 - نحو توسعه‌یافته.md",
     "03 - نحو پایه.md",
     "02 - کار کردن با مارک‌داون.md",
+    "01 - شروع‌به‌کار.md",
     "00 - مقدمه.md",
     "images/tux.png",
     "images/tasklist.png",
@@ -172,9 +174,7 @@
     "images/atom-markdown-preview.png",
     "images/atom.png",
     "aboutauthor.md",
-    "01 - شروع‌به‌کار.md",
     "().md",
-    "04 - نحو توسعه‌یافته.md",
     "05 - برگه تقلب.md"
   ]
 }
